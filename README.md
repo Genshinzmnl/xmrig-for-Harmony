@@ -1,4 +1,4 @@
-###English
+### English
 
 # XMRig for HarmonyOS 
 
@@ -14,7 +14,7 @@ https://github.com/xmrig/xmrig
 ## About: XMRig for HarmonyOS
 XMRig for HarmonyOS provides a rich user interface for command-line XMRig miners. XMRig for HarmonyOS makes complex miner configurations accessible for beginner users while also providing an advanced mode for pro users. XMRig for HarmonyOS manages an unlimited number of separated configuration profiles, XMRig forks (original & MoneroOcean fork), benchmark results & a set of enabled/disabled algorithms.
 
-###简体中文
+### 简体中文
 
 XMRig for HarmonyOS 是一个用户界面和管理应用程序，用于XMRig。要了解挖矿过程是如何工作的，请阅读[XMRig的文档](https://xmrig.com/docs/miner)。
 
